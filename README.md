@@ -107,5 +107,3 @@ on the shoulders of people who cared enough to write their craft down and
 share it. Thank you.
 
 ---
-
-*Made with ❤️ by the community, for the community.*
