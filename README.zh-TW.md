@@ -129,4 +129,3 @@ git 歷史和累積的筆記都會一起帶走。
 
 ---
 
-*Made with ❤️ by the community, for the community.*
